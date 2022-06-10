@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataToSave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentState>AwaitingFurtherInstructions</CurrentState>
+  <ParametersRecieved />
+  <OpenedBracketsCounter>0</OpenedBracketsCounter>
+  <CurrentInput>2.4494898</CurrentInput>
+  <ReadyToCalculationExpression> √ ( 2 + ( ( 2 * √ ( ( ( 3 + 4 + 5 ) / 2 ) * ( ( ( 3 + 4 + 5 ) / 2 ) - 3 ) * ( ( ( 3 + 4 + 5 ) / 2 ) - 4 ) * ( ( ( 3 + 4 + 5 ) / 2 ) - 5 ) ) ) / 3 )  )</ReadyToCalculationExpression>
+  <ShownToUserExpression> √ ( 2 + hₐ( 3, 4, 5 )  )</ShownToUserExpression>
+</DataToSave>
